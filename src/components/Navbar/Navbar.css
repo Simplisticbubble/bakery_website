@@ -48,7 +48,7 @@
     background-color: var(--color-grey);
 }
 .app__navbar-smallscreen {
-    display: none;
+    display: flex;
 }
 .app__navbar-smallscreen_overlay{
     position: fixed;
